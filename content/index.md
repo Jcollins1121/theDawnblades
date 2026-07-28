@@ -23,23 +23,22 @@ Within these documents lies information on contracts, reports, personnel records
 
 > [[Timeline]]
 
-> World Map 
-
-> [[Calendar ]]
-
->History
-
-# Current Adventure
-
 >[[Sablebrook Bounty Board#Ongoing|Current Contract(s)]]
 
 >[[Session 6|Last Session]]
 
->Recently Explored Areas and Leads 
+>Important NPC's 
 
 # Erethal 
 
-# Notable People
+>History
+
+> Calendar
+
+> World Map 
+
 # Rules and References
 
+> General Homebrew Rules 
 
+> Crafting and Research 
