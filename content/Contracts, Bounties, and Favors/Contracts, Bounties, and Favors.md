@@ -1,5 +1,6 @@
 # Contracts, Bounties, and Favors 
 ![[Torrick_Bounty.png|444]]
+
 ### Ongoing: 
 
 - #### WANTED!!! Torrick the Red
