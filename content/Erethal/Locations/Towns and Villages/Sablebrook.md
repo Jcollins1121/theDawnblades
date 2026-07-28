@@ -8,22 +8,19 @@ Nestled along a quiet river, **Sablebrook** is a humble farming village surround
 ## Notable NPCs
 
 
-## Factions
-
-
 ## [[Bounty Board#Sablebrook|Contracts, Bounties, and Favors]]
 - Recover the missing children 
 - Stolen Silver
 - Corpse Theft 
 
+## Factions
+
 ## History
 
-
-
 ## Session Log
-[[Session 1]]
-[[Session 2]]
-[[Session 3]]
-[[Session 4]]
-[[Session 5]]
-[[Session 6]]
+- [[Session 1]]
+- [[Session 2]]
+- [[Session 3]]
+- [[Session 4]]
+- [[Session 5]]
+- [[Session 6]]
