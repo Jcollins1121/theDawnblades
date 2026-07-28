@@ -11,7 +11,8 @@ This archive contains contains the field records of an active Dawnblades expedit
 Within these documents lies information on contracts, reports, personnel records, and other intelligence gathered during our adventures. 
 
 # The Party
-![[TheParty.png]]
+![[PartyinTavern.png]]
+
 - [[Belokan]]
 - [[Finn Harrow]]
 - [[Jed Tokki]]
