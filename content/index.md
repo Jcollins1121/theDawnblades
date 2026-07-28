@@ -21,24 +21,24 @@ Within these documents lies information on contracts, reports, personnel records
 
 # Campaign 
 
-> [[Timeline]]
+>[[Timeline]]
 
 >[[Sablebrook Bounty Board#Ongoing|Current Contract(s)]]
 
->[[Session 6|Last Session]]
+>[[Session 6|Latest Field Report]]
 
->Important NPC's 
+>Persons of Interest 
 
 # Erethal 
 
 >History
 
-> Calendar
+>Calendar
 
-> World Map 
+>World Map 
 
 # Rules and References
 
-> General Homebrew Rules 
+>General Homebrew Rules 
 
-> Crafting and Research 
+>Crafting and Research 
