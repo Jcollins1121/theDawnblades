@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # The Dawnblades Expedition Archive
 
 	  "A forgotten truth is no different than a buried relic." 
