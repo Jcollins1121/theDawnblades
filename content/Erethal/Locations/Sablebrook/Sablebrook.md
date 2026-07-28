@@ -1,9 +1,6 @@
 # Sablebrook 
 
-- Brief description
-- Population
-- Economy
-- Overall vibe (quiet farming town, bustling trade hub, etc.)
+Nestled along a quiet river, **Sablebrook** is a humble farming village surrounded by fertile fields. Once little more than a peaceful agricultural community, it has seen a modest increase in travelers and mercenary companies passing through. While the village remains calm and close-knit, the steady flow of visitors has brought a touch of new life to its streets and businesses.
 
 ## Map
 

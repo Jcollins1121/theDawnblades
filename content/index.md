@@ -1,10 +1,8 @@
 ---
 title: Home
 ---
-
 # The Dawnblades Expedition Archive
 
-	  "A forgotten truth is no different than a buried relic." 
 
 ## Welcome, Dawnblade.
 
@@ -12,14 +10,15 @@ This archive contains contains the field records of an active Dawnblades expedit
 
 Within these documents lies information on contracts, reports, personnel records, and other intelligence gathered during our adventures. 
 
-## The Party
+***A forgotten truth is no different than a buried relic.***
+
+# The Party
 ![[TheParty.png]]
 - [[Belokan]]
 - [[Finn Harrow]]
 - [[Jed Tokki]]
 - [[Jericho Hawthorne]] 
 - [[Lassaran]]
-
 # Campaign 
 
 > [[Timeline]]

@@ -12,6 +12,7 @@ configuration:
     - private
     - templates
     - .obsidian
+    - _Private
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -171,7 +172,7 @@ plugins:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
