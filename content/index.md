@@ -31,7 +31,7 @@ Within these documents lies information on contracts, reports, personnel records
 
 # Current Adventure
 
->[[Bounty Board#Ongoing|Current Contract(s)]]
+>[[Sablebrook Bounty Board#Ongoing|Current Contract(s)]]
 
 >[[Session 6|Last Session]]
 

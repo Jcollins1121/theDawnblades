@@ -9,18 +9,3 @@ Exhausted from the day's events and with tempers running high, we returned to Sa
 
 [[Finn Harrow|Finn]] took particular exception to Silas' indifference. Seizing him by the collar, Finn threw him to the ground and rubbed his face into the dirt. The commotion quickly drew the attention of a town guard, who escorted both men away for questioning. After hearing both sides of the story, Leonidas chose to show Finn some leniency, acknowledging that we had already uncovered and reported the mysterious tunnel system, proving our good intentions despite the altercation. Meanwhile, back at the tavern, the subdued mimic awoke from its slumber. With [[Finn Harrow|Finn]] and [[Jericho Hawthorne|Jericho]] absent, [[Lassaran]], [[Belokan]], and [[Jed Tokki|Jed]] swiftly dispatched the creature before it could pose any further threat.
 
-
-
-
-
-
-
-
-
-
-
-While we studied the surroundings for any more leads, [[Finn Harrow|Finn]]went into the back of the carriage and found the cargo that we were looking for. He reached out with his trident to touch the chest and it was stolen by a mimic. We fought the mimic and were able to subdue it without killing it in order to retrieve the gold bounty. 
-
-We made our way back to Sablebrook, thoroughly exhausted and tempers at a high after the events of the day. Lassaran was first to make contact with Silas and dragged him outside of the tavern so that we could confront him and collect our payment. We questioned him on the contents of his shipment, and he claimed to have not loaded or been aware of what had been loaded into his cart. Guiltlessly, he throws the bag of gold on the ground in our direction and claims that the contract has been completed. Finn takes immense exception to this and grabs him by the collar and throws him down to the ground. While rubbing Silas' face in the dirt, a guard is alerted to the situation and brings the two in for questioning. After hearing both sides of the story, Leonidas decides to give [[Finn Harrow|Finn]] a break as we had found and alerted him of the tunnel system already so he knows we are good. As this is happening the mimic awakes from his slumber and is promptly killed by [[Lassaran]], [[Belokan]], and [[Jed Tokki|Jed]] who remained at the Tavern. 
-
-
