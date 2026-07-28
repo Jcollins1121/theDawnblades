@@ -29,7 +29,7 @@ Within these documents lies information on contracts, reports, personnel records
 
 # Current Adventure
 
->[[Contracts, Bounties, and Favors#Ongoing|Current Contract(s)]]
+>[[Bounty Board#Ongoing|Current Contract(s)]]
 
 >[[Session 6|Last Session]]
 

@@ -27,7 +27,7 @@ Nestled along a quiet river, **Sablebrook** is a humble farming village surround
 ## Factions
 
 
-## [[Contracts, Bounties, and Favors#Sablebrook|Contracts, Bounties, and Favors]]
+## [[Bounty Board#Sablebrook|Contracts, Bounties, and Favors]]
 - Recover the missing children 
 - Stolen Silver
 - Corpse Theft 
