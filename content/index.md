@@ -4,13 +4,11 @@ title: Home
 # The Dawnblades Expedition Archive
 
 
-## Welcome, Dawnblade.
+### *Welcome, Dawnblade.*
 
 This archive contains contains the field records of an active Dawnblades expedition. 
 
 Within these documents lies information on contracts, reports, personnel records, and other intelligence gathered during our adventures. 
-
-***A forgotten truth is no different than a buried relic.***
 
 # The Party
 ![[TheParty.png]]
@@ -40,9 +38,6 @@ Within these documents lies information on contracts, reports, personnel records
 # Erethal 
 
 # Notable People
-
-# Archive 
-
 # Rules and References
 
 
