@@ -7,6 +7,9 @@ Nestled along a quiet river, **Sablebrook** is a humble farming village surround
 
 ## Notable NPCs
 
+## Leads and Notable Information 
+
+- Disease 
 
 ## Contracts, Bounties, and Favors
 - [[Sablebrook Bounty Board#**Recover the Missing Children**|Recover the Missing Children]]

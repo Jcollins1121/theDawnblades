@@ -17,7 +17,7 @@ Jericho Hawthorne is an Eladrin warlock and accomplished artisan known for his q
 ***Eyes***: Green 
 ***Hair***: Silver 
 ***Size***: Medium 
-
+ 
 ### Features: 
 ***Origin and General Feats:*** 
 - [Musician](http://dnd2024.wikidot.com/feat:musician)
@@ -79,6 +79,7 @@ Jericho Hawthorne is an Eladrin warlock and accomplished artisan known for his q
 ***AC***: 14 
 
 ***Initiative***: +3 
+
 
 ### Spell List: 
 ***Cantrips:*** 
