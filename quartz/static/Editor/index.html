@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+
+    <title>Edit the Dawnblades Archive</title>
+
+    <link rel="stylesheet" href="./editor.css" />
+  </head>
+
+  <body>
+    <main class="editor-page">
+      <header class="editor-header">
+        <p class="eyebrow">The Dawnblades Expedition Archive</p>
+        <h1>Field Journal</h1>
+
+        <p>
+          Select your character, update the information, and save your changes to the archive.
+        </p>
+      </header>
+
+      <section class="editor-card">
+        <label for="character">Character</label>
+
+        <select id="character">
+            <option value="">Choose a character</option>
+            <option value="jericho">Jericho Hawthorne</option>
+            <option value="finn">Finn Harrow</option>
+            <option value="jed">Jed Tokki</option>
+            <option value="belokan">Belokan</option>
+        </select>
+
+        <label for="markdown-content">Character Page</label>
+
+        <textarea
+            id="markdown-content"
+            rows="32"
+            spellcheck="false"
+            placeholder="The character's Markdown page will appear here..."
+         ></textarea>
+
+        <div class="button-row">
+            <button id="save-button" type="button">
+            Save Changes
+         </button>
+
+            <button id="clear-button" class="secondary" type="button">
+            Clear Draft
+            </button>
+        </div>
+
+        <p id="status" aria-live="polite"></p>
+        </section>
+    </main>
+
+    <script src="./editor.js"></script>
+  </body>
+</html>
