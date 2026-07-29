@@ -19,6 +19,10 @@ Within these documents lies information on contracts, reports, personnel records
 - [[Jericho Hawthorne]] 
 - [[Lassaran]]
 
+# Submit an Entry: 
+
+>[Field Journal](https://jcollins1121.github.io/theDawnblades/static/Editor/index.html)
+
 # Campaign 
 
 >[[Timeline]]
@@ -42,3 +46,4 @@ Within these documents lies information on contracts, reports, personnel records
 >General Homebrew Rules 
 
 >Crafting and Research 
+
