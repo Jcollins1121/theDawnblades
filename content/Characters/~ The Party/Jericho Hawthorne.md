@@ -116,8 +116,10 @@ Recognizing both the enormity of the task and the limits of his own experience, 
 [[Finn Harrow]]
 [[Jed Tokki]] 
 [[Lassaran]] 
+
 [[The Dawnblades]]
 [[The Argent Exchange Guild]]
+
 [[The Still Whisper]]
 
 
