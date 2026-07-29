@@ -12,7 +12,7 @@ Within these documents lies information on contracts, reports, personnel records
 
 # The Party
 ![[PartyTavern.png|697]]
-*Finn tells Lassaran an old myth, and Lassaran worriedly believes every word. Jericho listens with quiet curiosity, waiting to see whether Lassaran will take the bait. Belokan appears unconcerned, though he is privately considering whether Finn’s claim might actually hold some truth. Jed, unaware that Finn is lying, simply assumes Finn has gotten the story wrong.*
+	*Finn tells Lassaran an old myth, and Lassaran worriedly believes every word. Jericho listens with quiet curiosity, waiting to see whether Lassaran will take the bait. Belokan appears unconcerned, though he is privately considering whether Finn’s claim might actually hold some truth. Jed, unaware that Finn is lying, simply assumes Finn has gotten the story wrong.*
 
 - [[Belokan]]
 - [[Finn Harrow]]
